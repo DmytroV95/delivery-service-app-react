@@ -1,0 +1,23 @@
+{
+  "title": "Cargos list",
+  "newCargp": "NEW CARGO",
+  "filter": "FILTER",
+  "closeFilter": "CLOSE FILTER",
+  "filterByVehicleType": "Filter by Vehicle Type",
+  "filterByDeliveryStatus": "Filter by Delivery Status",
+  "rowsPerPage": "Rows per page",
+  "cargoDescription": "Cargo description",
+  "deliveryStatus": "Delivery status",
+  "vehicleNumber": "Vehicle number",
+  "vehicleType": "Vehicle type",
+  "createNewCargo": "Create new cargo",
+  "weight": "Weight, kg",
+  "description": "Description",
+  "create": "CREATE",
+  "cargoDetails": "Cargo Details",
+  "cargoWeight": "Cargo weight, kg",
+  "deliveryTo": "Delivery to",
+  "deliveryFrom": "Delivery from",
+  "editCargoDetails": "Edit Cargo Details"
+  "save": "Save"
+}
