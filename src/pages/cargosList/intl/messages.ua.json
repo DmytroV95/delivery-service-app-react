@@ -1,0 +1,23 @@
+{
+  "title": "Список вантажів",
+  "newCargo": "НОВИЙ ВАНТАЖ",
+  "filter": "ФІЛЬТР",
+  "closeFilter": "ЗАКРИТИ ФІЛЬТР",
+  "filterByVehicleType": "Фільтрувати за типом транспорту",
+  "filterByDeliveryStatus": "Фільтрувати за статусом доставки",
+  "rowsPerPage": "Рядків на сторінку",
+  "cargoDescription": "Опис вантажу",
+  "deliveryStatus": "Статус доставки",
+  "vehicleNumber": "Номер транспортного засобу",
+  "vehicleType": "Тип транспортного засобу",
+  "createNewCargo": "Створити новий вантаж",
+  "weight": "Вага, кг",
+  "description": "Опис",
+  "create": "СТВОРИТИ",
+  "cargoDetails": "Деталі вантажу",
+  "cargoWeight": "Вага вантажу, кг",
+  "deliveryTo": "Доставка до",
+  "deliveryFrom": "Доставка з",
+  "editCargoDetails": "Редагувати деталі вантажу",
+  "save": "Зберегти"
+}
